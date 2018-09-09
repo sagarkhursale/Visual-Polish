@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ColorFontActivity" />
-        <activity android:name=".ResponsiveLayoutActivity"></activity>
+        <activity android:name=".ResponsiveLayoutActivity" />
+        <activity android:name=".StyleActivity"></activity>
     </application>
 
 </manifest>
