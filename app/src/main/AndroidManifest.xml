@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".ColorFontActivity" />
         <activity android:name=".ResponsiveLayoutActivity" />
-        <activity android:name=".StyleActivity"></activity>
+        <activity android:name=".StyleActivity" />
+        <activity android:name=".SelectorActivity"></activity>
     </application>
 
 </manifest>
