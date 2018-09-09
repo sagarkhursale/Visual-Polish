@@ -6,7 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 public class SelectorActivity extends AppCompatActivity {
-    private static final String TAG = SelectorsActivity.class.getSimpleName();
+    private static final String TAG = SelectorActivity.class.getSimpleName();
 
     // recycler view and adapter
     RecyclerView mRecyclerView;
